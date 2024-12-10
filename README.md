@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryarajrs&label=Profile%20views&color=0e75b6&style=flat" alt="suryarajrs" /> </p>
 
-- 🌱 I’m currently learning **Nodejs expressjs**
+- 🌱 I’m currently learning **Nodejs, expressjs**
 
 - 👯 I’m looking to collaborate on **exciting front-end projects and open-source contributions**
 
